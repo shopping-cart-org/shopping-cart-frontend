@@ -1,5 +1,5 @@
 # shopping-cart-front
-[React shopping cart](https://zt1983811.github.io/shopping-cart/)
+[React shopping cart](https://shopping-cart-org.github.io/shopping-cart-frontend)
 
 
 ## Getting Started with Create React App
