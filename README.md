@@ -1,4 +1,4 @@
-# shopping-cart
+# shopping-cart-front
 [React shopping cart](https://zt1983811.github.io/shopping-cart/)
 
 
